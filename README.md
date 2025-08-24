@@ -1,2 +1,2 @@
 # ai-amulya
-ai makerspace challenge 
+Ai makerspace challenge 
